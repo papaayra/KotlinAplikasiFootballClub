@@ -1,4 +1,4 @@
-#Syarat
+# Syarat
 1. Fitur yang harus ada pada aplikasi Anda adalah:
 
 2. Menampilkan list data ke dalam RecyclerView.
@@ -11,7 +11,7 @@
 
 6. Menerapkan Anko Commons.
 
-#Ketentuan
+# Ketentuan
 Ketentuan dari aplikasi yang Anda serahkan adalah:
 
 1. Proyek dari aplikasi harus menggunakan Android Studio.
